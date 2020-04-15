@@ -22,6 +22,18 @@ input{
 	border: none;
 	border-bottom: 1px solid darkgray;
 }
+.buttons > input{
+	margin-top: 30px;
+	box-sizing: content-box;
+	font-size: larger;
+	border: 2px solid lightgray;
+}
+.red-border{
+	border-bottom: 1px solid red;
+}
+.red-select{
+	background-color: #f55;
+}
 h3{
 	text-align: center;
 }
