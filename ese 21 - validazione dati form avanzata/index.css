@@ -1,0 +1,40 @@
+html, body{
+	height: 100%;    
+	background-color: dodgerblue;
+}
+#wrapper{
+	width: 900px;
+	height: 100%;
+	border: 1px solid black;
+	margin: 30px auto;
+	padding: 30px;
+	background-color: white;
+	box-shadow: 1px 1px 20px  black;
+	text-align: left;
+}
+
+input, select, textarea{
+	min-height: 30px;
+	min-width: 100px;
+	margin-bottom: 10px;
+}
+input{
+	border: none;
+	border-bottom: 1px solid darkgray;
+}
+.buttons > input{
+	margin-top: 30px;
+	box-sizing: content-box;
+	font-size: larger;
+	border: 2px solid lightgray;
+}
+.red-border{
+	border-bottom: 1px solid red;
+}
+h3{
+	text-align: center;
+}
+
+input[type="text"]:disabled{
+	background: #dddddd;
+}
