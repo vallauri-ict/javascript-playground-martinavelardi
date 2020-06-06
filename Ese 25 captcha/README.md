@@ -1,5 +1,5 @@
 ### Esercizio 25 - Captcha
-Sulla base della form indicata a fianco, scrivere una
+Scrivere una
 applicazione che:
 * All’avvio generi e visualizzi 5 caratteri casuali fra
 quelli contenuti all’interno del file captcha.png
