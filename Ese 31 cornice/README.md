@@ -3,26 +3,18 @@ Data una matrice di 10 x 10 quadratini, in cui ogni quadratino è realizzato med
 un tag DIV appeso ad un wrapper ed implementa la seguente classe cella:
 
 .cella{
-
 width:40px;
-
 height:40px;
-
 margin:2px;
-
 padding:0;
-
 background-color: #CCC;
-
 display:inline-block;
-
 }
-#wrapper{
 
+#wrapper{
 width:440px;
 height:440px;
 margin:15px auto;
-
 }
 
 realizzare l’applicazione in cui la cornice, partendo dai bordi esterni,
