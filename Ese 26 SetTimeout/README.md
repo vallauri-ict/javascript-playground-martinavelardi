@@ -1,4 +1,4 @@
-### Esercizio 26 - SetTimeout
+### Esercizio 26 - setTimeout
 Realizzare il gioco 7 1⁄2 basato sulla pagina HTML allegata.
 Il gioco consiste nel visualizzare, in sequenza ogni 1000 ms, 3 carte casuali fra le dieci del mazzo,
 sommando il valore di ciascuna carta visualizzata. Se la carta visualizzata è una figura nel punteggio viene
